@@ -12,11 +12,14 @@ Project Euler Solutions
 - 8
 - 9
 - 10
+- <b style="color:red">11</b>
 - 12
 - 13
 - 14
+- <b style="color:red">15</b>
 - 16
 - 17
+- <b style="color:red">18</b>
 - 19
 - 20
 - 21
@@ -25,10 +28,13 @@ Project Euler Solutions
 - 24
 - 25
 - 26
+- <b style="color:red">27</b>
+- <b style="color:red">28</b>
 - 29
 - 30
 - 31
 - *32*  partial
+- <b style="color:red">33</b>
 - 34
 - 35
 - 36

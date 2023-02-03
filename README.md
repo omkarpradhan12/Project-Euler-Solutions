@@ -46,3 +46,8 @@ Project Euler Solutions
 - 42
 - 43
 - 44
+- 45
+- <b style="color:red">46</b>
+- 47
+- 48
+- 49

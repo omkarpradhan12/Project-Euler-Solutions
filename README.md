@@ -51,3 +51,7 @@ Project Euler Solutions
 - 47
 - 48
 - 49
+- *50* partial
+- <b style="color:red">51</b>
+- 52
+- 53

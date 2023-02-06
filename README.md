@@ -55,3 +55,5 @@ Project Euler Solutions
 - <b style="color:red">51</b>
 - 52
 - 53
+- <b style="color:red">54</b>
+- 55

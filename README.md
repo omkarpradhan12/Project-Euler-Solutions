@@ -57,3 +57,11 @@ Project Euler Solutions
 - 53
 - <b style="color:red">54</b>
 - 55
+- 56
+- <b style="color:red">57</b>
+- <b style="color:red">58</b>
+- *59* partial
+- <b style="color:red">60</b>
+- <b style="color:red">61</b>
+- 62
+- 63

@@ -1,7 +1,9 @@
 # Project-Euler-Solutions
+
 Project Euler Solutions
 
 ## Questions Completed with solutions
+
 - 1
 - 2
 - 3
@@ -12,14 +14,14 @@ Project Euler Solutions
 - 8
 - 9
 - 10
-- <b style="color:red">11</b>
+- ~~11~~
 - 12
 - 13
 - 14
-- <b style="color:red">15</b>
+- ~~15~~
 - 16
 - 17
-- <b style="color:red">18</b>
+- ~~18~~
 - 19
 - 20
 - 21
@@ -28,13 +30,13 @@ Project Euler Solutions
 - 24
 - 25
 - 26
-- <b style="color:red">27</b>
-- <b style="color:red">28</b>
+- ~~27~~
+- ~~28~~
 - 29
 - 30
 - 31
 - *32*  partial
-- <b style="color:red">33</b>
+- ~~33~~
 - 34
 - 35
 - 36
@@ -47,21 +49,32 @@ Project Euler Solutions
 - 43
 - 44
 - 45
-- <b style="color:red">46</b>
+- ~~46~~
 - 47
 - 48
 - 49
 - *50* partial
-- <b style="color:red">51</b>
+- ~~51~~
 - 52
 - 53
-- <b style="color:red">54</b>
+- ~~54~~
 - 55
 - 56
-- <b style="color:red">57</b>
-- <b style="color:red">58</b>
+- ~~57~~
+- ~~58~~
 - *59* partial
-- <b style="color:red">60</b>
-- <b style="color:red">61</b>
+- ~~60~~
+- ~~61~~
 - 62
 - 63
+- ~~64~~
+- ~~65~~
+- ~~66~~
+- ~~67~~
+- ~~68~~
+- 69
+- 70
+- *71* partial
+- 72
+- ~~73~~
+- 74

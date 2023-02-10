@@ -80,3 +80,5 @@ Project Euler Solutions
 - 74
 - *75* partial
 - 76
+- 77
+- 78

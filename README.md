@@ -89,3 +89,5 @@ Project Euler Solutions
 - ~~83~~
 - ~~84~~
 - 85
+- ~~86~~
+- 87

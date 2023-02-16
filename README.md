@@ -94,3 +94,4 @@ Project Euler Solutions
 - ~~88~~
 - 89
 - 90
+- *91* partial

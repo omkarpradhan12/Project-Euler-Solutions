@@ -95,3 +95,12 @@ Project Euler Solutions
 - 89
 - 90
 - *91* partial
+- 92
+- 93
+- 94
+- *95* partial
+- ~~96~~
+- 97
+- 98
+- 99
+- 100

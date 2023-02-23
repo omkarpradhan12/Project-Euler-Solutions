@@ -104,3 +104,5 @@ Project Euler Solutions
 - 98
 - 99
 - 100
+- ~~101~~
+- 102
